@@ -5,9 +5,9 @@ This project is based on the [GitHub-GSheets Oauth code by Ben Collins](https://
 
 There are some important differences:
 
-*It gets data from Instagram rather than GitHub
-*It is intended to run automatically in the background
-*It sends configuration and error messages to Slack (because how else are you to know when something goes wrong with a script running in the background)
+* It gets data from Instagram rather than GitHub
+* It is intended to run automatically in the background
+* It sends configuration and error messages to Slack (because how else are you to know when something goes wrong with a script running in the background)
 
 ## Set up Code.gs
 
